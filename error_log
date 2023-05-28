@@ -1,0 +1,12 @@
+[20-Dec-2022 18:24:53 UTC] PHP Warning:  Undefined variable $visitor_email in /home/novirteam/public_html/contact.php on line 47
+[20-Dec-2022 18:24:53 UTC] PHP Warning:  Undefined variable $email_title in /home/novirteam/public_html/contact.php on line 49
+[20-Dec-2022 18:24:54 UTC] PHP Warning:  Undefined variable $visitor_name in /home/novirteam/public_html/contact.php on line 50
+[16-Feb-2023 09:18:03 UTC] PHP Warning:  simplexml_load_file(http://www.geoplugin.net/xml.gp?ip=52.33.171.127): Failed to open stream: Connection refused in /home/novirteam/public_html/index.php on line 61
+[16-Feb-2023 09:18:03 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.geoplugin.net/xml.gp?ip=52.33.171.127&quot; in /home/novirteam/public_html/index.php on line 61
+[06-Mar-2023 23:17:49 UTC] PHP Warning:  simplexml_load_file(http://www.geoplugin.net/xml.gp?ip=66.249.70.78): Failed to open stream: Connection timed out in /home/novirteam/public_html/index.php on line 61
+[06-Mar-2023 23:17:49 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.geoplugin.net/xml.gp?ip=66.249.70.78&quot; in /home/novirteam/public_html/index.php on line 61
+[06-Mar-2023 23:20:07 UTC] PHP Warning:  simplexml_load_file(http://www.geoplugin.net/xml.gp?ip=66.249.70.78): Failed to open stream: Connection timed out in /home/novirteam/public_html/index.php on line 61
+[06-Mar-2023 23:20:07 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.geoplugin.net/xml.gp?ip=66.249.70.78&quot; in /home/novirteam/public_html/index.php on line 61
+[23-May-2023 12:38:04 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/novirteam/public_html/index.php on line 61
+[23-May-2023 12:38:04 UTC] PHP Warning:  simplexml_load_file(http://www.geoplugin.net/xml.gp?ip=81.16.10.29): Failed to open stream: no suitable wrapper could be found in /home/novirteam/public_html/index.php on line 61
+[23-May-2023 12:38:04 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.geoplugin.net/xml.gp?ip=81.16.10.29&quot; in /home/novirteam/public_html/index.php on line 61
