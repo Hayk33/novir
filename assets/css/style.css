@@ -1283,3 +1283,7 @@ animation-direction: alternate;
 .content-box-about{
   margin: auto;
 }
+.contact-button-header{
+  background-color: #2ED12E !important;
+  border: 1px #2ED12E;
+}

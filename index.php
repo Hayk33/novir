@@ -69,7 +69,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <img src="assets/img/novirlogovectortransp3.png" class="img-header"/>
       <p> <span class="typed" data-typed-items="Digitalization, Consulting, Design, Engineering"></span></p>
-      <a href="#contact-form"><button type="button" class="btn btn-primary btn-lg">Get IT Solution</button></a>
+      <a href="#contact-form"><button type="button" class="btn btn-primary btn-lg contact-button-header">Get IT Solution</button></a>
       <!-- <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
